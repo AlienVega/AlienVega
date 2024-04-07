@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Haydar Çoban</h1>
-<h3 align="center">As a Mathematics Engineer, I have extensive experience in software development and business management</h3>
+<h3 align="center">As a Mathematics Engineer, I have extensive experience in software development and business management, particularly in the field of front-end development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
