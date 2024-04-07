@@ -15,3 +15,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alienvega&show_icons=true&locale=en" alt="alienvega" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alienvega&" alt="alienvega" /></p>
+
+
+![snake gif](https://github.com/AlienVega/AlienVega/blob/output/github-contribution-grid-snake.gif)
