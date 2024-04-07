@@ -1,4 +1,6 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:750/format:webp/1*uHlx-j01g5ybkJ2d_8dtyQ.png)
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*uHlx-j01g5ybkJ2d_8dtyQ.png" alt="MasterHead"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Haydar Çoban</h1>
 <h3 align="center">As a Mathematics Engineer, I have extensive experience in software development and business management</h3>
